@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abtahi :)</h1>
-<h3 align="center">A Passionate Coder & Debugger</h3>
+<h1 align="center">Hello, Abtahi here...</h1>
+<h3 align="center">A Programmer who can Code, Develop & Debug</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abtaaahi&label=Profile%20views&color=0e75b6&style=flat" alt="abtaaahi" /> </p>
 
 - 🔭 I’m currently working on **Android**
