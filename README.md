@@ -1,13 +1,32 @@
-<h2 align="center">Hello, Abtahi here...</h2>
-<h3 align="center">A Programmer who can Code, Develop & Debug</h3>
+## 🚀 Experience
+### Stamasoft Technology
+#### Mobile App Developer ( Oct 2023 – Present  )
+- Created Application like Instagram, Bkash (Online Payment App), BBC News using Multiple Libraries.
+- Used Java & Kotlin for Building the Architecture and Functionality. Use XML for UI, PHP for API Integration, SQL for Databases, Apache for Server, Version Control in Git.
 
-- 🔭 I’m currently working on **Android**
+## 🎓 Education
+### Bachelor of Science in CSE 
+#### East Delta University | Jan 2022 – Jan 2026 (Expected)
+- Course: Data Structure and Algorithm, Object Oriented Programming, Networking, Computer Architecture, Database Management System, Data Communication, Operating System.
 
-- 🌱 I’m currently learning **Backend**
+## 🛠 Skills
+#### Mobile App Development: 
+- Kotlin, Java, XML (Native Android) Dart, Flutter (Cross Platform)
 
-- 👯 I’m looking to collaborate on **AI**
+#### Backend, Database & Server: 
+- PHP, NodeJS, Apache, Express, MySQL, Oracle, Firebase, MongoDB
+#### Other Language & Library: 
+- C++, JavaScript, Python, C, React, HTML, CSS, GenAI, 8086-Assembly
+#### Tools & Tech: 
+- Android Studio, Git, GitHub, VS Code, Docker, JUnit, Espresso, Retrofit, OkHttp
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## 🔗 Certificates
+- REST API , [HackerRank](https://www.hackerrank.com/certificates/db4f05d77992)
+
+- Python for Data Science, AI & Development, [Coursera](https://www.coursera.org/account/accomplishments/verify/GKCD6XSRKBGL?utm_product=course)
+
+- Generative AI, [Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/d83620c7537eed0de7cae9762f2596b3cf5dcc5a0ad03852e0db1ad760074a07?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bf6odJ9U0Qf6mza5jKUocQg%3D%3D)
+
+- Cybersecurity, [Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/4ca0ce91f0f1776232fe891d443ab5a002bd8040bec3114b92606e37d44ebdee?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bf6odJ9U0Qf6mza5jKUocQg%3D%3D)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abtaaahi&show_icons=true&locale=en&layout=compact" alt="abtaaahi" /></p>
