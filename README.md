@@ -4,7 +4,7 @@
 
 ### 🎓 Education
 #### Bachelor of Science in CSE 
-- East Delta University | Jan 2022 – Jan 2026 (Expected)
+- East Delta University
 
 ### 🛠 Skills
 - Mobile App Development: Kotlin, Java, XML (Native Android) Dart, Flutter (Cross Platform)
