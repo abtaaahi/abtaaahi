@@ -12,4 +12,6 @@
 - Other Language & Library: C++, JavaScript, Python, C, React, HTML, CSS, GenAI, 8086-Assembly
 - Tools & Tech: Android Studio, Git, GitHub, VS Code, Docker, JUnit, Espresso, Retrofit, OkHttp
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abtaaahi&show_icons=true&locale=en&layout=compact" alt="abtaaahi" /></p>
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=abtaaahi&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+</a>
