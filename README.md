@@ -16,5 +16,6 @@
   <img align="left" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=abtaaahi&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&" />
 </a>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abtaaahi&show_icons=true&locale=en&layout=compact" alt="abtaaahi" /></p>
+<!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abtaaahi&show_icons=true&locale=en&layout=compact" alt="abtaaahi" /></p> 
+-->
