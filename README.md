@@ -13,7 +13,7 @@
 - Tools & Tech: Android Studio, Git, GitHub, VS Code, Docker, JUnit, Espresso, Retrofit, OkHttp
 
 <a href="#">
-  <img height=200 align="left" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=abtaaahi&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+  <img align="left" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=abtaaahi&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&" />
 </a>
 
 
