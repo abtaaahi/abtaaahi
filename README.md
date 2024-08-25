@@ -1,6 +1,6 @@
 ### 🚀 Experience
-#### Stamasoft Technology
-- Mobile App Developer
+#### App Developer
+- Stamasoft Technology
 
 ### 🎓 Education
 #### Bachelor of Science in CSE 
