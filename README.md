@@ -1,4 +1,4 @@
-🚀 Experience
+<strong>🚀 Experience</strong>
 
 App Developer
 
