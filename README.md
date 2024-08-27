@@ -7,6 +7,7 @@ App Developer
 
 Bachelor of Science in CSE 
 - East Delta University
+
 <strong>🛠 Skills</strong>
 - App Development: Kotlin, Java, XML (Native Android) Dart, Flutter (Cross Platform)
 - Backend, Database & Server: PHP, NodeJS, Apache, Express, MySQL, Firebase, MongoDB
