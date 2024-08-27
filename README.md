@@ -2,11 +2,11 @@
 <h4> App Developer </h4>
 - Stamasoft Technology
 
-### 🎓 Education
-#### Bachelor of Science in CSE 
+🎓 Education
+Bachelor of Science in CSE 
 - East Delta University
 
-### 🛠 Skills
+🛠 Skills
 - App Development: Kotlin, Java, XML (Native Android) Dart, Flutter (Cross Platform)
 - Backend, Database & Server: PHP, NodeJS, Apache, Express, MySQL, Firebase, MongoDB
 - Other Language: C++, JavaScript, Python, C, 8086-Assembly
