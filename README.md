@@ -1,9 +1,13 @@
 🚀 Experience
+
 App Developer
+
 - Stamasoft Technology
 
 🎓 Education
+
 Bachelor of Science in CSE 
+
 - East Delta University
 
 🛠 Skills
