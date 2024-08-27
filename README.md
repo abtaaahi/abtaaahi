@@ -4,7 +4,7 @@ App Developer
 
 - Stamasoft Technology
 
-🎓 Education
+<h3>🎓 Education</h3>
 
 Bachelor of Science in CSE 
 
