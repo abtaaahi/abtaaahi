@@ -1,5 +1,5 @@
-<h3> 🚀 Experience </h3>
-<h4> App Developer </h4>
+🚀 Experience
+App Developer
 - Stamasoft Technology
 
 🎓 Education
