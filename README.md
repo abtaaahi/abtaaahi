@@ -14,10 +14,19 @@ Bachelor of Science in CSE
 - Other Language: C++, JavaScript, Python, C, 8086-Assembly
 - Tools: Android Studio, Git, GitHub, VS Code, Docker, Postman
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abtaaahi&theme=highcontrast&hide=html,css&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="height: 160px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abtaaahi&theme=highcontrast&hide_border=true" alt="Streak Stats" style="height: 160px;" />
+</p>
+<!--
+main:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abtaaahi&theme=highcontrast&hide=html,css&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=abtaaahi&theme=highcontrast&hide_border=true)
+
+///////////
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abtaaahi&hide=html,css&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<!--
 
 <a href="#">
   <img align="left" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=abtaaahi&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&" />
@@ -57,7 +66,6 @@ Bachelor of Science in CSE
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abtaaahi&hide=html,css&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-
 <a href="#">
   <img align="left" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=abtaaahi&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&" />
 </a>
@@ -73,5 +81,12 @@ Bachelor of Science in CSE
 ![](https://github-readme-stats.vercel.app/api?username=abtaaahi&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abtaaahi&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abtaaahi&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abtaaahi&theme=highcontrast&hide=html,css&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="height: 150px;"></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=abtaaahi&theme=highcontrast&hide_border=true" alt="Streak Stats" style="height: 150px;"></td>
+  </tr>
+</table>
 
 -->
