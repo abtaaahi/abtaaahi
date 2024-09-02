@@ -15,7 +15,7 @@ Bachelor of Science in CSE
 - Tools: Android Studio, Git, GitHub, VS Code, Docker, Postman
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abtaaahi&theme=highcontrast&hide=html,css&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="height: 160px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abtaaahi&theme=highcontrast&hide=html,css&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="height: 160px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abtaaahi&theme=highcontrast&hide_border=true" alt="Streak Stats" style="height: 160px;" />
 </p>
 <!--
