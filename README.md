@@ -13,9 +13,7 @@ Bachelor of Science in CSE
 - Backend, Database & Server: NodeJS, Apache, Express, MySQL, Firebase, MongoDB
 - Other Language: C++, JavaScript, Python
 - Tools: Android Studio, Git, GitHub, VS Code, Docker, Postman
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abtaaahi&theme=highcontrast&hide=html,css&hide_border=true&include_all_commits=true&layout=compact&langs_count=8"style="height: 170px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abtaaahi&hide_border=true&theme=highcontrast"style="height: 170px;" />
 </p>
 
@@ -40,6 +38,8 @@ Bachelor of Science in CSE
 
 <!--
 main:
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abtaaahi&theme=highcontrast&hide=html,css&hide_border=true&include_all_commits=true&layout=compact&langs_count=8"style="height: 170px;" />
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abtaaahi&theme=highcontrast&hide=html,css&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abtaaahi&theme=highcontrast&hide_border=true)
