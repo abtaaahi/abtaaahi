@@ -1,6 +1,6 @@
 <strong>🚀 Experience</strong>
 
-App Developer
+**App Developer**
 - Stamasoft Technology
 
 <strong>🎓 Education</strong>
@@ -9,35 +9,17 @@ Bachelor of Science in CSE
 - East Delta University
 
 <strong>🛠 Skills</strong>
-- App Development: Kotlin, Java (Native Android) Dart, Flutter (Cross Platform)
-- Backend, Database & Server: NodeJS, Apache, Express, MySQL, Firebase, MongoDB
-- Other Language: C++, JavaScript, Python
-- Tools: Android Studio, Git, GitHub, VS Code, Docker, Postman
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abtaaahi&hide_border=true&theme=highcontrast"style="height: 170px;" />
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- **App Development**: Kotlin, Java (Native Android) Dart, Flutter (Cross Platform)
+- **Backend, Database & Server**: NodeJS, Apache, Express, MySQL, Firebase, MongoDB
+- **Other Language**: C++, JavaScript, Python, React
+- **Tools**: Android Studio, Git, GitHub, VS Code, Docker, Postman, Render, Google Cloud
 
 <!--
 main:
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abtaaahi&hide_border=true&theme=highcontrast"style="height: 170px;" />
+</p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abtaaahi&theme=highcontrast&hide=html,css&hide_border=true&include_all_commits=true&layout=compact&langs_count=8"style="height: 170px;" />
 
